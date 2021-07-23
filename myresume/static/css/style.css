@@ -1,0 +1,20 @@
+
+#id_gender, #id_language {
+    list-style-type: none;
+    display: inline-flex;
+}
+
+#id_language > li {
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+#id_gender > li {
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+#id_date {
+    decoration: none;
+    border: none;
+}
